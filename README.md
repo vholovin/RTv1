@@ -16,8 +16,6 @@ Used graphic "MiniLibX" library.
 1. Use "make" to compile program.
 2. run ./RTv1 scenes/[choose_file].rtv1 
 
-You may to use also mouse to moving and zooming.
-
 # CONTROLS:
 
 # Move camera:
