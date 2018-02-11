@@ -1,0 +1,32 @@
+CAMERA
+{
+	POSITION: 0 0 0
+	AXES: 0 0 1
+}
+SCENE
+{
+	LIGHT
+	{
+		POSITION: -70 -40 10
+		AXES: 0 0 0
+		ANGLE: 0 0 0
+		COLOR: 75 75 255
+		SIZE: 1
+	}
+	LIGHT
+	{
+		POSITION: 70 -40 10
+		AXES: 0 0 0
+		ANGLE: 0 0 0
+		COLOR: 255 75 75
+		SIZE: 1
+	}
+	SPHERE
+	{
+		POSITION: 0 0 130
+		AXES: 0 0 0
+		ANGLE: 0 0 0
+		COLOR: 255 255 255
+		SIZE: 100
+	}
+}

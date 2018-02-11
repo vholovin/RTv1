@@ -1,0 +1,32 @@
+CAMERA
+{
+	POSITION: 0 0 0
+	AXES: 0 0 -1
+}
+SCENE
+{
+	LIGHT
+	{
+		POSITION: 25 25 25
+		AXES: 0 0 0
+		ANGLE: 0 0 0
+		COLOR: 255 50 50
+		SIZE: 1
+	}
+	CONE
+	{
+		POSITION: 20 0 -70
+		AXES: 1 0 0
+		ANGLE: 0 0 0
+		COLOR: 255 50 255
+		SIZE: 60
+	}
+	CONE
+	{
+		POSITION: 20 0 -70
+		AXES: 0 1 0
+		ANGLE: 0 0 0
+		COLOR: 255 50 255
+		SIZE: 60
+	}
+}
